@@ -7,7 +7,7 @@ Any help would be rewarded soon. Let's build a foundation of new rustecean-based
 
 <h5>Additional Notes<h5>
 
-This information shared as an addition to our RustBlockSec article that you can check here - [Tap!](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/DLhgR1FqmKdTZyzxilIzykRCIGzEe0lgkhf6VYvnv-E)
+The information shared down below is an addition to our RustBlockSec article that you can check here - [Tap!](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/DLhgR1FqmKdTZyzxilIzykRCIGzEe0lgkhf6VYvnv-E)
 
 --------
 
