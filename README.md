@@ -24,6 +24,21 @@ The information shared down below is an addition to our RustBlockSec article tha
 
 ![Untitled design(6)](https://github.com/Rektoff/RustBlockSec/assets/144442822/4fbcc71b-48b1-4632-921d-85f9ae71a4d7)
 
+--------
+
+Create and deploy your smart-contracts using these Rust-inspired platforms.
+
+- Leo
+- Noir
+- Ink!
+- Sway
+- CosmWasm
+- Stylus
+- Cairo
+- Substrate
+- Huff
+- Rusk
+
 
 --------
 Support Our Work:
