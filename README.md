@@ -57,12 +57,10 @@ Tools:
 - [OrgaTendermint](https://github.com/turbofish-org/orga)
 - [Sothis](https://github.com/rainshowerLabs/sothis)
 - [Blutgang](https://github.com/rainshowerLabs/blutgang)
+- [Hyperledger Solang](https://github.com/hyperledger/solang)
+- [DIDKit](https://github.com/spruceid/didkit)
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 --------
 
 Infrastructure:
@@ -77,12 +75,21 @@ Infrastructure:
 - [PolkadotSDK](https://github.com/paritytech/polkadot-sdk)
 - [OasisSDK](https://github.com/oasisprotocol/oasis-sdk)
 - [Rustlibp2p](https://github.com/libp2p/rust-libp2p)
+- [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies)
+- [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery)
+- [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust)
 
 --------
 
 Testing&Fuzzing
 
-[Foundry 2.0](https://github.com/foundry-rs/foundry)
+- [Foundry 2.0](https://github.com/foundry-rs/foundry)
+- [Circomspect](https://github.com/trailofbits/circomspect)
+- [Caracal](https://github.com/crytic/caracal)
+- [Cairo-Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer)
+- [Fzero-Fuzzer](https://github.com/FuzzingLabs/fzero_fuzzer)
+- [WASMRuntimeFuzz](https://github.com/FuzzingLabs/wasm_runtimes_fuzzing)
+- 
 
 --------
 
