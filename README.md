@@ -78,6 +78,7 @@ Infrastructure:
 - [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies)
 - [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery)
 - [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust)
+- [LambdaStarkPlatinum](https://github.com/lambdaclass/lambdaworks_stark_platinum)
 
 --------
 
@@ -89,13 +90,17 @@ Testing&Fuzzing
 - [Cairo-Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer)
 - [Fzero-Fuzzer](https://github.com/FuzzingLabs/fzero_fuzzer)
 - [WASMRuntimeFuzz](https://github.com/FuzzingLabs/wasm_runtimes_fuzzing)
-- 
+  
 
 --------
 
 Cryptography&Zero-Knowledge
 
-- https://github.com/zkcrypto
+- [ZkCrypto](https://github.com/zkcrypto)
+- [ark-gro16](https://github.com/geometryresearch/groth16)
+- [Boojum](https://github.com/matter-labs/era-boojum)
+- [Plonky2Starky]( https://github.com/mir-protocol/plonky2)
+- [ZKWASM](https://github.com/xonoxitron/zk-wasm)
 --------
 
 
