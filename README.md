@@ -66,6 +66,7 @@ Tools:
 Infrastructure:
 
 - [Reth](https://github.com/paradigmxyz/reth)
+- [Zeth](https://github.com/risc0/zeth)
 - [Ethers-rs](https://github.com/gakonst/ethers-rs)
 - [LightHouse](https://github.com/sigp/lighthouse)
 - [Trin](https://github.com/ethereum/trin)
@@ -73,6 +74,7 @@ Infrastructure:
 - [Hermes](https://github.com/informalsystems/hermes)
 - [Tendermint-rs](https://github.com/informalsystems/tendermint-rs)
 - [PolkadotSDK](https://github.com/paritytech/polkadot-sdk)
+- [VeilidCoDC](https://veilid.com/)
 - [OasisSDK](https://github.com/oasisprotocol/oasis-sdk)
 - [Rustlibp2p](https://github.com/libp2p/rust-libp2p)
 - [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies)
@@ -96,16 +98,16 @@ Testing&Fuzzing
 
 Cryptography&Zero-Knowledge
 
-- [ZkCrypto](https://github.com/zkcrypto)
+- [ZkCrypto](https://github.com/zkcrypto) / [bellman](https://github.com/zkcrypto/bellman)
 - [ark-gro16](https://github.com/geometryresearch/groth16)
 - [Boojum](https://github.com/matter-labs/era-boojum)
 - [Plonky2Starky]( https://github.com/mir-protocol/plonky2)
 - [ZKWASM](https://github.com/xonoxitron/zk-wasm)
---------
-
-
-()()()()()()()()())()()()()()()
-
+- [RustCrypro](https://github.com/RustCrypto) / [EllipticCurves](https://github.com/RustCrypto/elliptic-curves)
+- [ZkSnarksSubstrate](https://brightinventions.pl/blog/zk-snarks-in-substrate-part-1/)
+- [BulletProofs](https://github.com/dalek-cryptography/bulletproofs)
+- [Curve25519](https://github.com/dalek-cryptography/curve25519-dalek)
+  
 
 --------
 
@@ -113,19 +115,8 @@ Additional links:
 
 - [Alchemy Dev Report q2 2023](https://www.alchemy.com/blog/web3-developer-report-q2-2023)
 - [Alchemy Dev Report q1 2023](https://www.alchemy.com/blog/web3-developer-report-q1-2023)
-
---------
-Support Our Work:
-
-- ERC-20 & Ethereum -
-- USDT TRC-20 - 
-- Bitcoin - 
-- BNB - 
-- Solana - 
-- Doge -
-- XRP - 
-- AVAX - 
-- Litecoin -
-- TON - 
-- Near - 
+- [JetBrains Developer Ecosystem](https://blog.jetbrains.com/rust/2023/01/18/rust-deveco-2022-discover-recent-trends/)
+- [GitHub blog about Rust](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/)
+- [StackOverFlow Survey 2023](https://survey.stackoverflow.co/2023/#technology)
+- [Interview with Senior Rust Developer](https://youtu.be/TGfQu0bQTKc?si=jVeH6HkL78fq2fI3)
 
