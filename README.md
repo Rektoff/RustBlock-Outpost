@@ -1,7 +1,7 @@
-# RustBlock Developer Snapshot 23'
+# RustBlock Developer Knowledge Base 23'
 
 
-Here [Rektoff](https://twitter.com/rektoff_xyz) core team in collaboration with [officercia](https://twitter.com/officer_cia) presented a knowledge base and market enviroment overview about Rust blockchain development. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
+Here [Rektoff](https://twitter.com/rektoff_xyz) core team presented a knowledge base and market enviroment overview about Rust blockchain development. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
 Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field!
 
@@ -12,7 +12,7 @@ The information shared down below is an addition to our RustBlockSec article tha
 --------
 
 
-**Recent News:**
+**Recent Big News:**
 
 - [Aztec Network shared an update](https://x.com/aztecnetwork/status/1702338983999799374?s=20) about the launch of a new smart contract framework for their ecosystem-native Noir language, which has 99% syntax similarity to Rust.
   
@@ -26,20 +26,34 @@ The information shared down below is an addition to our RustBlockSec article tha
 
 --------
 
-Create and deploy your smart-contracts using these Rust-inspired platforms.
+Create and deploy your smart-contracts using these Rust-inspired platforms/languages/frameworks.
 
-- Leo
-- Noir
-- Ink!
-- Sway
-- CosmWasm
-- Stylus
-- Cairo
-- Substrate
-- Huff
-- Rusk
-- Fe
+- [Leo](https://github.com/AleoHQ/leo) (Aleo)
+- [Noir](https://github.com/noir-lang/noir) (Aztec ZkRollup)
+- [Ink!](https://github.com/paritytech/ink) (Polkadot)
+- [Sway](https://github.com/FuelLabs/sway) (Fuel Labs)
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm) (Cosmos)
+- [Stylus](https://github.com/OffchainLabs/stylus) (Arbitrum)
+- [Cairo](https://github.com/starkware-libs/cairo) (Starknet/Starkware)
+- [Substrate](https://github.com/paritytech/substrate) (Polkadot)
+- [Huff](https://github.com/huff-language/huffc) (Ethereum)
+- [Rusk](https://github.com/dusk-network/rusk) (Dusk Network)
+- [Fe](https://github.com/ethereum/fe) (Ethereum)
+- [Mx-SDK](https://github.com/multiversx/mx-sdk-rs) (MultiverseX)
+- [NearSDK](https://github.com/near/near-sdk-rs) (NEAR)
+- [SolanaToolkit](https://docs.solana.com/developing/on-chain-programs/developing-rust) (Solana)
+  
+--------
 
+Tools&Infrastructure:
+
+[Optimism-rs](https://github.com/refcell/optimism-rs)
+
+--------
+
+Testing&Fuzzing
+
+[Foundry 2.0](https://github.com/foundry-rs/foundry)
 
 --------
 Support Our Work:
