@@ -38,6 +38,7 @@ Create and deploy your smart-contracts using these Rust-inspired platforms.
 - Substrate
 - Huff
 - Rusk
+- Fe
 
 
 --------
