@@ -44,18 +44,39 @@ Create and deploy your smart contracts using these Rust-inspired platforms/langu
 - [Mx-SDK](https://github.com/multiversx/mx-sdk-rs) (MultiverseX)
 - [NearSDK](https://github.com/near/near-sdk-rs) (NEAR)
 - [SolanaToolkit](https://docs.solana.com/developing/on-chain-programs/developing-rust) (Solana)
+- [SecretToolkit](https://github.com/scrtlabs/secret-toolkit) (Secret Network)
+- [Anchor](https://github.com/coral-xyz/anchor) (Solana)
   
 --------
 
-Tools&Infrastructure:
+Tools:
 
 - [Optimism-rs](https://github.com/refcell/optimism-rs)
 - [Rivet](https://github.com/paradigmxyz/rivet)
 - [Alloy](https://github.com/alloy-rs)
-- [Reth]()
+- [OrgaTendermint](https://github.com/turbofish-org/orga)
+- [Sothis](https://github.com/rainshowerLabs/sothis)
+- [Blutgang](https://github.com/rainshowerLabs/blutgang)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+--------
+
+Infrastructure:
+
+- [Reth](https://github.com/paradigmxyz/reth)
 - [Ethers-rs](https://github.com/gakonst/ethers-rs)
-[]()
-[]()
+- [LightHouse](https://github.com/sigp/lighthouse)
+- [Trin](https://github.com/ethereum/trin)
+- [Zebra](https://github.com/ZcashFoundation/zebra)
+- [Hermes](https://github.com/informalsystems/hermes)
+- [Tendermint-rs](https://github.com/informalsystems/tendermint-rs)
+- [PolkadotSDK](https://github.com/paritytech/polkadot-sdk)
+- [OasisSDK](https://github.com/oasisprotocol/oasis-sdk)
+- [Rustlibp2p](https://github.com/libp2p/rust-libp2p)
 
 --------
 
