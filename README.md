@@ -28,7 +28,20 @@ The information shared below is an addition to our RustBlockSec article that you
 
 --------
 
-Create and deploy your smart contracts using these Rust-inspired platforms/languages/frameworks.
+| Navigation | Sections|
+|-----:|-----------|
+|     1| Smart Contracts|
+|     2| Tools |
+|     3| Infrastructure |
+|     4| Testing/Fuzzing |
+|     5| Cryptography/ZK |
+|     6| Additional links |
+
+
+
+---------
+
+Create and deploy your **smart contracts** using these Rust-inspired platforms/languages/frameworks.
 
 - [Leo](https://github.com/AleoHQ/leo) (Aleo)
 - [Noir](https://github.com/noir-lang/noir) (Aztec ZkRollup)
@@ -53,7 +66,7 @@ Create and deploy your smart contracts using these Rust-inspired platforms/langu
   
 --------
 
-Tools:
+**Tools:**
 
 - [Optimism-rs](https://github.com/refcell/optimism-rs) - Optimism implementation written in Rust(non-official version)
 - [Rivet](https://github.com/paradigmxyz/rivet) - browser extension that enables developers to inspect, debug, modify, and manipulate the state of Ethereum
@@ -67,7 +80,7 @@ Tools:
 
 --------
 
-Infrastructure:
+**Infrastructure:**
 
 - [Reth](https://github.com/paradigmxyz/reth) - fresh rust-based Ethereum execution client by Paradigm team
 - [Revm](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine
@@ -83,13 +96,12 @@ Infrastructure:
 - [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies) - ZkSync Rust SDK
 - [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery) - smart rollups on top of Tezos using Rust.
 - [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust) - Starknet library in Rust
-- [LambdaStarkPlatinum](https://github.com/lambdaclass/lambdaworks_stark_platinum)
 - [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/) - client/server application for issuing two party ECDSA signatures
 - 
 
 --------
 
-Testing&Fuzzing
+**Testing&Fuzzing**
 
 - [Foundry 2.0](https://github.com/foundry-rs/foundry) - modular toolkit for ethereum development and testing 
 - [Circomspect](https://github.com/trailofbits/circomspect) - static analyzer for Circom ZK framework 
@@ -121,6 +133,7 @@ Cryptography&Zero-Knowledge
 - [ZkEvm circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits) - exploration focused zk evm circuits
 - [MPZ](https://github.com/privacy-scaling-explorations/mpz) - rustecean multi-party computation libraries
 - [Arkworks](https://github.com/arkworks-rs) - Rust ecosystem for ZKSnark development
+- [LambdaStarkPlatinum](https://github.com/lambdaclass/lambdaworks_stark_platinum) - STARK Prover
   
 
 --------
@@ -134,3 +147,43 @@ Additional links:
 - [StackOverFlow Survey 2023](https://survey.stackoverflow.co/2023/#technology)
 - [Interview with Senior Rust Developer](https://youtu.be/TGfQu0bQTKc?si=jVeH6HkL78fq2fI3)
 
+
+```
+                                                                                                                                                                                                                                                                                       
+                                                                      ...........                                                                                                                                                                                                                           
+                                                                    ,xkOOOOOO00OOkxol:;'..                                                                                                                                                                                                                  
+                                                                    ;0XXXXXXXXXXXXXXXXXK0Oxl;.                                                                                                                                                                                                              
+                                                        ...         ;0XXXXXXXXXXXXXXXXXXXXNNNKx:.                                                                                                                                                                                                           
+                                                      .:k00Oxc.     ;KXXXXXXXXXXXXXXXXXXXXXXXNWN0l.                                                                                                                       .'.   .,,.   ...                                                                  
+                                                     ;xKXXXNWW0l.   ;0XXXXXXXKOO0KKXXXXXXXXXXXXNWW0c.                                                                                                               .'.. .,cc,.':cc;'.;cc,. ..'.                                                            
+                                                   ,xKXXXXXXXNWW0:. ;0XXXXXXXkc:::;:oOXXXXXXXXXXNWMNx.                                                                                                              ,cc:,;cccccccccccccccc;,:cc'                                                            
+                                                  .c0XXXXXXXXXXNWKl.cKXXXXXXX0o:;'   .:kXXXXXXXXXNWMWO'                                                                                                       .,:,',:cccccccccccccccccccccccccc;'',:,                                                       
+                                                    'o0XXXXXXXXXNNKdxKXXXXXXXKkl;'     .c0XXXXXXXXNWWWO'                                                                                                      .;cccccccccccccccccccccccccccccccccccc;.              ...                                     
+                                                      'd0XXXXXXXXXXK0XXXXXXXXXKx:'       ;OXXXXXXXXXNNXo.                                                                                   ',.           ';,,;:cccccccccccccccccccccccccccccccccccc:,,;;'        .;:c'   .'.                               
+                                                        ,dKXXXXXXXXXXXXXXXXXXNN0o,        cKXXXXXXXXKKKO,                                                                              ',.  'cc;.         'cccccccccccccccccccccccccccccccccccccccccccccc'      .,cccc.  .,:'                               
+                                                          ,dKXXXXXXXXXXXXXXXXNWNk,        .kXXXXXXXX0O0Oc                                                                             'cc,. .:ccc'    ....,cccccccccccccccccccccccccccccccccccccccccccccc,....  'ccccc. .;cc.                               
+                                                           .;xKXXXXXXXXXXXXXXNWWKl........,xXXXXXXXX0kkkc.                                                                           .;ccc;..:ccc:.   ,cccccccccccccccccccccccccccccccccccccccccccccccccccccc'  'ccccc:;ccc,.                               
+                                             .:ccccclllllooookKXXXXXXXXXXXXXXNNNXK0O000000KXXXXXXXXX0kxxc.                                        .      .                            .;ccc:::ccc;.   .;cccccccccccccccccccccccccccccccccccccccccccccccccccc;.  .,ccccccc:'                                 
+                                             ;0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX0kxxc.                                       :kx,  'xO:                            .';cccccc:...'';:cccccccccccccccccccccccccccccccccccccccccccccccccccc:,''..,cccc:'.                                  
+                                             ;0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX0kxxc.                                       .oX0do0Xo.                               .';cc:'  'cccccccccccccccccccccldOo'.,:ccccccdkd,.;cccccccccccccccccc:'.,c:,.                                     
+                                             ;0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX0kxxc.                                        .xWMMWk.                                   ':c;'..,cccccccccccccccccccclOWK;  .:ccc:;xWK, .;cccccccccccccccc:,,:c;.                                       
+                                             ,OKKKKKKKK0000000XXXXXXXXXXXXXXXXXXXXXX0Okxddoooooollllc:cl;                                         cKKkkKXc                                    ..;:c::ccccccccccccccccccc:',l:.  .;ccc:.'c;.  'ccccccccccccccccccc:'                                         
+                                              .',,,,,'''''.':kKXXXXXXXXXXXXXXXXXXXXXKOdc,.                                                       cK0; .;KXc                                     .,ccccccccccccccccccccccc,.     .:cccc'     .,ccccccccccccccccccc:,.                                        
+                                                          .cOXXXXXXXXXXXXXXXXXXXXXXXXXX0xc'.                                                     ',.    .,'                                    .;ccc:;;:::cccccccccccccccc:,..',:cccccc;''',:ccccccccccccc:;;;::cccc,.                                      
+                                                        .:kXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKOl'                                                                                                  .:ccc;..'''',;:::ccccccccccccccccc;'..';ccccccccccccc::;;,....'..;cc:'                                       
+                                                       ;xKXXXXXXXXKkOXXXXXXXXOk0XXXXXXXXXXNX0d,                                                                                                 .,:cc'.....  ....',;;;::::ccccccc;'..,:cccc::::;;,,'...    ... .:c;.                                        
+                                                     ,dKXXXXXXXXXOl;oKXXXXXXXkccx0XXXXXXXXXXNNKx;.                                                                                                .,:c,. ..          .........''''''''''........           .. .;c,.                                         
+                                                   'o0XXXXXXXXXOo;',oKXXXXXXXOl;;:oOXXXXXXXXXXNWNOl.                                                                                                .,:;.  .                                              .  .,:'                                           
+                                                  .lKXXXXXXXX0d:,''.cKXXXXXXX0o:;'..l0XXXXXXXXXNNWWKl.                                                                                                .,;.                                                   ',.                                            
+                                                    ,xKXXXX0d:,''.  ;KXXXXXXX0dc;'   .o0XXXXXXXXXNNWW0l.                                                                                                .'.                                                 .'.                                             
+                                                      ;xKKxc,''..   ;KXXXXXXX0xl;'     'o0XXXXXXXXXXK00x,                                                                                                 .                                                 .                                               
+                                                       .,,.....     ;KXXXXXXX0xo:'       'o0XXXXXXXX0xxxc.                                                                                                                                                                                                  
+                                                                    ;KXXXXXXX0xdc'         'o0XXXXXX0xxxc.                                                                                                                                                                                                  
+                                                                    ,xOOOOOOkxddl'           'cloooolcll;                                                                                                                                                                                                   
+                                                                     .............                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                     
+
+                          
+     
+```
