@@ -76,7 +76,6 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [Blutgang](https://github.com/rainshowerLabs/blutgang) - load balancer designed with Ethereum's json-rpc 
 - [Hyperledger Solang](https://github.com/hyperledger/solang) - solidity compiler for Solana&Polkadot
 - [DIDKit](https://github.com/spruceid/didkit) - DID toolkit written in Rust
-- []()
 
 --------
 
