@@ -96,7 +96,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery) - smart rollups on top of Tezos using Rust.
 - [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust) - Starknet library in Rust
 - [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/) - client/server application for issuing two party ECDSA signatures
-- 
+  
 
 --------
 
