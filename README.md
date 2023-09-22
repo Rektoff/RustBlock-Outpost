@@ -1,9 +1,9 @@
 # RustBlock Developer Knowledge Base
 
 
-Here [Rektoff](https://twitter.com/rektoff_xyz) core team presents a knowledge base and market environment overview about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
+Here [Rektoff](https://twitter.com/rektoff_xyz) core team presents a knowledge base about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
-Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field
+Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field.
 
 
 <h5>Disclaimer<h5>
