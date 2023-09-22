@@ -1,7 +1,7 @@
 # RustBlock Developer Knowledge Base
 
 
-Here [Rektoff](https://twitter.com/rektoff_xyz) core team presents a knowledge base about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
+Here [Rektoff](https://twitter.com/rektoff_xyz) presents a knowledge base about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
 Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field.
 
@@ -88,13 +88,13 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [Trin](https://github.com/ethereum/trin) - Portal Network client implementation
 - [Zebra](https://github.com/ZcashFoundation/zebra) - consensus-compatible ZCash node
 - [Hermes](https://github.com/informalsystems/hermes) - rust-based IBC relayer 
-- [Tendermint-rs](https://github.com/informalsystems/tendermint-rs) - blockchain consensus engine for Byzantine fault tolerant applications 
+- [Tendermint-rs](https://github.com/informalsystems/tendermint-rs) - blockchain consensus engine for Byzantine fault-tolerant applications 
 - [VeilidCoDC](https://veilid.com/) - p2p application network by (x_X)
 - [Rustlibp2p](https://github.com/libp2p/rust-libp2p) - modular peer-to-peer networking framework
 - [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies) - ZkSync Rust SDK
 - [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery) - smart rollups on top of Tezos using Rust.
 - [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust) - Starknet library in Rust
-- [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/) - client/server application for issuing two party ECDSA signatures
+- [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/) - client/server application for issuing two-party ECDSA signatures
   
 
 --------
@@ -117,7 +117,7 @@ Cryptography&Zero-Knowledge
 - [ZkCrypto](https://github.com/zkcrypto) / [bellman](https://github.com/zkcrypto/bellman) - crate for building zk-SNARK circuits
 - [ark-gro16](https://github.com/geometryresearch/groth16) -library for designing and working with zero knowledge succinct non-interactive arguments 
 - [Boojum](https://github.com/matter-labs/era-boojum) - high-performance proof system for radical decentralization by ZkSync Era
-- [Plonky2Starky](https://github.com/mir-protocol/plonky2) - Zk scailing by mir&polygon
+- [Plonky2Starky](https://github.com/mir-protocol/plonky2) - Zk scaling by mir&polygon
 - [ZKWASM](https://github.com/xonoxitron/zk-wasm) - ZkWASM written in Rust
 - [RustCrypro](https://github.com/RustCrypto) / [EllipticCurves](https://github.com/RustCrypto/elliptic-curves) - General purpose EllipticCC support
 - [ZkSnarksSubstrate](https://brightinventions.pl/blog/zk-snarks-in-substrate-part-1/) - ZkNARKs in Substrate framework
