@@ -3,9 +3,8 @@
 
 Here [Rektoff](https://twitter.com/rektoff_xyz) core team presents a knowledge base and market environment overview about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
-Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field!
+Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field
 
-Main Contributors: [yehor b.], [officercia], [jared],
 
 <h5>Disclaimer<h5>
 
@@ -28,14 +27,14 @@ The information shared below is an addition to our RustBlockSec article that you
 
 --------
 
-| Navigation | Sections|
-|-----:|-----------|
-|     1| Smart Contracts|
-|     2| Tools |
-|     3| Infrastructure |
-|     4| Testing/Fuzzing |
-|     5| Cryptography/ZK |
-|     6| Additional links |
+| Navigation | Sections       |
+|-----------------:|------------------------------------------------------|
+|     1          |    Smart Contracts|
+|     2|        Tools |
+|     3|          Infrastructure |
+|     4|          Testing/Fuzzing |
+|     5|           Cryptography/ZK |
+|     6|          Additional links |
 
 
 
@@ -145,8 +144,8 @@ Additional links:
 - [GitHub blog about Rust](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/)
 - [StackOverFlow Survey 2023](https://survey.stackoverflow.co/2023/#technology)
 - [Interview with Senior Rust Developer](https://youtu.be/TGfQu0bQTKc?si=jVeH6HkL78fq2fI3)
-
-
+- [Rust NationUK](https://www.youtube.com/watch?v=EFtassAEK5A)
+--------
 ```
                                                                                                                                                                                                                                                                                        
                                                                       ...........                                                                                                                                                                                                                           
