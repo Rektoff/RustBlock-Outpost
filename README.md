@@ -25,7 +25,6 @@ The information shared below is an addition to our RustBlockSec article that you
 
 ![Untitled design(6)](https://github.com/Rektoff/RustBlockSec/assets/144442822/4fbcc71b-48b1-4632-921d-85f9ae71a4d7)
 
---------
 
 # Navigation
 
