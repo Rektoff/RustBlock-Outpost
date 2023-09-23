@@ -27,20 +27,26 @@ The information shared below is an addition to our RustBlockSec article that you
 
 --------
 
-| Navigation | Sections       |
+# Navigation
+
+| Numbers | Sections       |
 |-----------------:|------------------------------------------------------|
-|     1          |    Smart Contracts|
-|     2|        Tools |
-|     3|          Infrastructure |
-|     4|          Testing/Fuzzing |
-|     5|           Cryptography/ZK |
-|     6|          Additional links |
+|     1          |    [Smart Contracts](#1) |
+|     2|        [Tools](#2) |
+|     3|          [Infrastructure](#3) |
+|     4|          [Testing/Fuzzing](#4) |
+|     5|           [Cryptography/ZK](#5) |
+|     6|          [Additional links](#6) |
 
 
 
 ---------
 
+# 1
+
 Create and deploy your **smart contracts** using these Rust-inspired platforms/languages/frameworks.
+
+
 
 - [Leo](https://github.com/AleoHQ/leo) (Aleo)
 - [Noir](https://github.com/noir-lang/noir) (Aztec ZkRollup)
@@ -64,8 +70,9 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [ConcRustFramework](https://github.com/Concordium/concordium-rust-smart-contracts) (Concordium)
   
 --------
+# 2
 
-**Tools:**
+ **Tools:**
 
 - [Optimism-rs](https://github.com/refcell/optimism-rs) - Optimism implementation written in Rust(non-official version)
 - [Rivet](https://github.com/paradigmxyz/rivet) - browser extension that enables developers to inspect, debug, modify, and manipulate the state of Ethereum
@@ -77,8 +84,9 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [DIDKit](https://github.com/spruceid/didkit) - DID toolkit written in Rust
 
 --------
+# 3
 
-**Infrastructure:**
+ **Infrastructure:**
 
 - [Reth](https://github.com/paradigmxyz/reth) - fresh rust-based Ethereum execution client by Paradigm team
 - [Revm](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine
@@ -98,6 +106,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
   
 
 --------
+# 4
 
 **Testing&Fuzzing**
 
@@ -111,6 +120,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
   
 
 --------
+# 5
 
 Cryptography&Zero-Knowledge
 
@@ -135,8 +145,9 @@ Cryptography&Zero-Knowledge
   
 
 --------
+# 6
 
-Additional links:
+**Additional links:**
 
 - [Alchemy Dev Report q2 2023](https://www.alchemy.com/blog/web3-developer-report-q2-2023)
 - [Alchemy Dev Report q1 2023](https://www.alchemy.com/blog/web3-developer-report-q1-2023)
