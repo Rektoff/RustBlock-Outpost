@@ -61,7 +61,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [PolkadotSDK](https://github.com/paritytech/polkadot-sdk) (All-in Polkadot)
 - [OasisSDK](https://github.com/oasisprotocol/oasis-sdk) (Oasis Protocol)
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) (Radix Defi)
-- [ConcRustFramework](https://github.com/Concordium/concordium-rust-smart-contracts) - (Concordium)
+- [ConcRustFramework](https://github.com/Concordium/concordium-rust-smart-contracts) (Concordium)
   
 --------
 
