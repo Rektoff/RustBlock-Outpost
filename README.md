@@ -1,9 +1,9 @@
 # RustBlock Developer Outpost
 
 
-Here [Rektoff](https://twitter.com/rektoff_xyz) presents a knowledge base about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
+Here [Rektoff](https://twitter.com/rektoff_xyz) presents an hybrid outpost for Rust blockchain developers. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
-Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in blockchain field.
+Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in web3 field.
 
 
 <h5>Disclaimer<h5>
