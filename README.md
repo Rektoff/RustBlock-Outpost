@@ -1,7 +1,7 @@
 # RustBlock Developer Outpost
 
+![RustBlock Outpost(1)](https://github.com/Rektoff/RustBlock-Outpost/assets/144442822/01a33a9a-0109-4b36-ae47-8cd0703d69d9)
 
-![RustBlock Outpost](https://github.com/Rektoff/RustBlock-Outpost/assets/144442822/ea98d20c-369b-4b6b-b70d-18a031838836)
 
 
 Here [Rektoff](https://twitter.com/rektoff_xyz) presents the RustBlock outpost for developers and enthusiasts. Outpost is the structured knowledge library or fundamental tool that consists of numerous links that any mr/mrs could use for personal navigation or educational purposes within Rust blockchain ecosystem. We have observed a demand in recent months and have received many requests to create something related. So, here it is!
