@@ -1,4 +1,4 @@
-# RustBlock Developer Knowledge Base
+# RustBlock Developer Outpost
 
 
 Here [Rektoff](https://twitter.com/rektoff_xyz) presents a knowledge base about the Rust blockchain development ecosystem. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
