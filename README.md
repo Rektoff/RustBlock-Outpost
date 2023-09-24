@@ -1,6 +1,9 @@
 # RustBlock Developer Outpost
 
 
+![RustBlock Outpost](https://github.com/Rektoff/RustBlock-Outpost/assets/144442822/ea98d20c-369b-4b6b-b70d-18a031838836)
+
+
 Here [Rektoff](https://twitter.com/rektoff_xyz) presents an hybrid outpost for Rust blockchain developers. We saw a demand in the last months and got a lot of requests to create something related. So here it is! 
 
 Any help would be rewarded soon. Let's build a foundation of new rustecean-based applications in web3 field.
