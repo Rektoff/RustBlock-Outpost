@@ -10,7 +10,7 @@ Here [Rektoff](https://twitter.com/rektoff_xyz) presents the RustBlock outpost f
 
 We are striving to create a timeless resource that will remain useful for the next 2-5 years, so consistent contributions from the audience would be greatly appreciated. Please feel free to add any requests and let's collectively build a foundation for new **rustecean-based** applications in the web3 field.
 
-Contributors: [jared](https://twitter.com/JaredChilders7), [mikhail](https://github.com/cyphersnake), [gregory](https://twitter.com/youfelll), [yehor](https://twitter.com/turbofakesmile), [officercia](https://twitter.com/officer_cia), [bloqcarl](https://twitter.com/TheBlockChainer).....[Anyone who will help, will be added to this list.]
+Contributors: [jared](https://twitter.com/JaredChilders7), [mikhail](https://github.com/cyphersnake), [gregory](https://twitter.com/youfelll), [yehor](https://twitter.com/turbofakesmile), [officercia](https://twitter.com/officer_cia), [bloqcarl](https://twitter.com/TheBlockChainer).....[Anyone who wants to contribute, send us a message on https://twitter.com/rektoff_xyz and we will add you to the repo.]
 
 - '
 - '
