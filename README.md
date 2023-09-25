@@ -95,21 +95,21 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 
  **Infrastructure:**
 
-- [Reth](https://github.com/paradigmxyz/reth) - fresh rust-based Ethereum execution client by Paradigm team
-- [Revm](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine
-- [Ethers-rs](https://github.com/gakonst/ethers-rs) - eth&celo Rust library
-- [Artemis](https://github.com/paradigmxyz/artemis) - framework for writing MEV bots in Rust
-- [LightHouse](https://github.com/sigp/lighthouse) - Ethereum Consensus client by Sigma Prime
-- [Trin](https://github.com/ethereum/trin) - Portal Network client implementation
-- [Zebra](https://github.com/ZcashFoundation/zebra) - consensus-compatible ZCash node
-- [Hermes](https://github.com/informalsystems/hermes) - rust-based IBC relayer 
-- [Tendermint-rs](https://github.com/informalsystems/tendermint-rs) - blockchain consensus engine for Byzantine fault-tolerant applications 
-- [VeilidCoDC](https://veilid.com/) - p2p application network by (x_X)
-- [Rustlibp2p](https://github.com/libp2p/rust-libp2p) - modular peer-to-peer networking framework
-- [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies) - ZkSync Rust SDK
-- [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery) - smart rollups on top of Tezos using Rust.
-- [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust) - Starknet library in Rust
-- [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/) - client/server application for issuing two-party ECDSA signatures
+- [Reth](https://github.com/paradigmxyz/reth): A fresh rust-based Ethereum execution client by Paradigm team
+- [Revm](https://github.com/bluealloy/revm): Rust Ethereum Virtual Machine
+- [Ethers-rs](https://github.com/gakonst/ethers-rs): Ethereum and Celo Rust library
+- [Artemis](https://github.com/paradigmxyz/artemis): A framework for writing MEV bots in Rust
+- [LightHouse](https://github.com/sigp/lighthouse): Ethereum Consensus client by Sigma Prime
+- [Trin](https://github.com/ethereum/trin): Portal Network client implementation
+- [Zebra](https://github.com/ZcashFoundation/zebra): Consensus-compatible ZCash node
+- [Hermes](https://github.com/informalsystems/hermes): Rust-based IBC relayer
+- [Tendermint-rs](https://github.com/informalsystems/tendermint-rs): Blockchain consensus engine for Byzantine fault-tolerant applications
+- [VeilidCoDC](https://veilid.com/): P2P application network by (x_X)
+- [Rustlibp2p](https://github.com/libp2p/rust-libp2p): Modular peer-to-peer networking framework
+- [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies): ZkSync Rust SDK
+- [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery): Smart rollups on top of Tezos using Rust
+- [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust): Starknet library in Rust
+- [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/): A client/server application for issuing two-party ECDSA signatures
   
 
 --------
@@ -123,7 +123,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [Cairo-Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - smart contracts fuzzer for Cairo by Fuzzing Labs
 - [Fzero-Fuzzer](https://github.com/FuzzingLabs/fzero_fuzzer) - grammar-based fuzzer for Rust
 - [WASMRuntimeFuzz](https://github.com/FuzzingLabs/wasm_runtimes_fuzzing) - WebAssembly Runtimes fuzzing 
-- [Dylint](https://github.com/trailofbits/dylint/tree/master) - Static Analyzer tool
+- [Dylint](https://github.com/trailofbits/dylint/tree/master) - Static Analysis tool
   
 
 --------
@@ -132,23 +132,23 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 Cryptography&Zero-Knowledge
 
 - [ZkCrypto](https://github.com/zkcrypto) / [bellman](https://github.com/zkcrypto/bellman) - crate for building zk-SNARK circuits
-- [ark-gro16](https://github.com/geometryresearch/groth16) -library for designing and working with zero knowledge succinct non-interactive arguments 
+- [ark-gro16](https://github.com/geometryresearch/groth16) - library for designing and working with zero knowledge succinct non-interactive arguments 
 - [Boojum](https://github.com/matter-labs/era-boojum) - high-performance proof system for radical decentralization by ZkSync Era
 - [Plonky2Starky](https://github.com/mir-protocol/plonky2) - Zk scaling by mir&polygon
 - [ZKWASM](https://github.com/xonoxitron/zk-wasm) - ZkWASM written in Rust
-- [RustCrypro](https://github.com/RustCrypto) / [EllipticCurves](https://github.com/RustCrypto/elliptic-curves) - General purpose EllipticCC support
+- [RustCrypto](https://github.com/RustCrypto) / [EllipticCurves](https://github.com/RustCrypto/elliptic-curves) - General purpose EllipticCC support
 - [ZkSnarksSubstrate](https://brightinventions.pl/blog/zk-snarks-in-substrate-part-1/) - ZkNARKs in Substrate framework
 - [BulletProofs](https://github.com/dalek-cryptography/bulletproofs) - [non-interactive ZKPs](https://crypto.stanford.edu/bulletproofs/) implementation 
 - [Curve25519](https://github.com/dalek-cryptography/curve25519-dalek) - pure-Rust crates for elliptic curve cryptography
 - [Circom](https://github.com/iden3/circom) - domain-specific language for defining arithmetic circuits that can be generated by ZKPs
 - [Zeth](https://github.com/risc0/zeth) - open-source ZK block prover for Ethereum built on the RISC Zero zkVM
-- [Spartan](https://github.com/microsoft/Spartan) - 0k proof system by microsoft
-- [Zk-Paillier](https://github.com/ZenGo-X/zk-paillier) - paillier(zengoX) zk library
+- [Spartan](https://github.com/microsoft/Spartan) - 0k proof system by Microsoft
+- [Zk-Paillier](https://github.com/ZenGo-X/zk-paillier) - Paillier (ZenGoX) zk library
 - [BLS](https://github.com/ZenGo-X/multi-party-bls) - MPBls
 - [ZkEvm circuits](https://github.com/privacy-scaling-explorations/zkevm-circuits) - exploration focused zk evm circuits
-- [MPZ](https://github.com/privacy-scaling-explorations/mpz) - rustecean multi-party computation libraries
+- [MPZ](https://github.com/privacy-scaling-explorations/mpz) - Rust ecosystem multi-party computation libraries
 - [Arkworks](https://github.com/arkworks-rs) - Rust ecosystem for ZKSnark development
-- [LambdaStarkPlatinum](https://github.com/lambdaclass/lambdaworks_stark_platinum) - STARK Prover
+- [LambdaStarkPlatinum](https://github.com/lambdaclass/lambdaworks_stark_platinum) - STARK Prover.
   
 
 --------
