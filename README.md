@@ -5,7 +5,7 @@
 
 
 
-Here [Rektoff](https://twitter.com/rektoff_xyz) presents the RustBlock outpost for developers and enthusiasts. Outpost is the structured knowledge library or fundamental tool that consists of numerous links that any mr/mrs could use for personal navigation or educational purposes within Rust blockchain ecosystem. We have observed a demand in recent months and have received many requests to create something related. So, here it is!
+Here [Rektoff](https://twitter.com/rektoff_xyz) presents the RustBlock outpost for developers and enthusiasts. Outpost is the structured knowledge library or fundamental tool that consists of numerous links that any mr/mrs could use for personal navigation or educational purposes within Rust blockchain ecosystem. We have observed a demand in recent months and have received many messages to create something related. So, here it is!
 
 
 We are striving to create a timeless resource that will remain useful for the next 2-5 years, so consistent contributions from the audience would be greatly appreciated. Please feel free to add any requests and let's collectively build a foundation for new rustecean-based applications in the web3 field.
