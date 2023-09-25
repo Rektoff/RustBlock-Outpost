@@ -1,6 +1,7 @@
 # RustBlock Developer Outpost
 
-![RustBlock Outpost(1)](https://github.com/Rektoff/RustBlock-Outpost/assets/144442822/01a33a9a-0109-4b36-ae47-8cd0703d69d9) 
+
+![RustBlock Outpost(1)](https://github.com/Rektoff/RustBlock-Outpost/assets/144442822/abaa4ee6-c471-47ea-b3d5-7af5387fe639)
 
 
 
