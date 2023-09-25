@@ -15,7 +15,7 @@ We are striving to create a timeless resource that will remain useful for the ne
 - '
 - '
 
-<h5>Disclaimer<h5>
+<h5>Disclaimer</h5>
 
 The information shared below is an addition to our RustBlockSec article that you can check here - [Tap!](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/DLhgR1FqmKdTZyzxilIzykRCIGzEe0lgkhf6VYvnv-E)
 
