@@ -22,7 +22,7 @@ The information shared below is an addition to our RustBlockSec article that you
 --------
 
 
-##**Recent Big News:**
+## **Recent Big News:**
 
 - [Aztec Network shared an update](https://x.com/aztecnetwork/status/1702338983999799374?s=20) about the launch of a new smart contract framework for their ecosystem-native Noir language, which has 99% syntax similarity to Rust.
   
