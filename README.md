@@ -56,8 +56,6 @@ The information shared below is an addition to our RustBlockSec article that you
 
 Create and deploy your **smart contracts** using these Rust-inspired platforms/languages/frameworks.
 
-
-
 - [Leo](https://github.com/AleoHQ/leo) (Aleo)
 - [Noir](https://github.com/noir-lang/noir) (Aztec ZkRollup)
 - [Ink!](https://github.com/paritytech/ink) (Polkadot)
@@ -65,7 +63,6 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) (Cosmos)
 - [Stylus](https://github.com/OffchainLabs/stylus) (Arbitrum)
 - [Cairo](https://github.com/starkware-libs/cairo) (Starknet/Starkware)
-- [Substrate](https://github.com/paritytech/substrate) (Polkadot)
 - [Huff](https://github.com/huff-language/huffc) (Ethereum)
 - [Rusk](https://github.com/dusk-network/rusk) (Dusk Network)
 - [Fe](https://github.com/ethereum/fe) (Ethereum)
@@ -78,6 +75,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [OasisSDK](https://github.com/oasisprotocol/oasis-sdk) (Oasis Protocol)
 - [Scrypto](https://github.com/radixdlt/radixdlt-scrypto) (Radix Defi)
 - [ConcRustFramework](https://github.com/Concordium/concordium-rust-smart-contracts) (Concordium)
+- [Gear](https://github.com/gear-tech/gear) (Gear Protocol/GearTech)
   
 --------
 # 2
@@ -166,6 +164,7 @@ Cryptography&Zero-Knowledge
 - [StackOverFlow Survey 2023](https://survey.stackoverflow.co/2023/#technology)
 - [Interview with Senior Rust Developer](https://youtu.be/TGfQu0bQTKc?si=jVeH6HkL78fq2fI3)
 - [Rust NationUK](https://www.youtube.com/watch?v=EFtassAEK5A)
+- [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 --------
 ```
                                                                                                                                                                                                                                                                                        
