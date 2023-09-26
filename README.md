@@ -89,6 +89,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [Blutgang](https://github.com/rainshowerLabs/blutgang) - load balancer designed with Ethereum's json-rpc 
 - [Hyperledger Solang](https://github.com/hyperledger/solang) - solidity compiler for Solana&Polkadot
 - [DIDKit](https://github.com/spruceid/didkit) - DID toolkit written in Rust
+- [tezos-rust-sdk](https://github.com/airgap-it/tezos-rust-sdk) - A set of Rust libraries to interact with the Tezos blockchain
 
 --------
 # 3
@@ -107,7 +108,7 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 - [VeilidCoDC](https://veilid.com/): P2P application network by (x_X)
 - [Rustlibp2p](https://github.com/libp2p/rust-libp2p): Modular peer-to-peer networking framework
 - [ZkSyncSDK](https://docs.zksync.io/api/sdk/rust/tutorial/#adding-dependencies): ZkSync Rust SDK
-- [TezonSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery): Smart rollups on top of Tezos using Rust
+- [TezosSmartRollup](https://docs.rs/tezos-smart-rollup/latest/tezos_smart_rollup/) + [Kernel Gallery](https://gitlab.com/tezos/kernel-gallery): Smart rollups on top of Tezos using Rust
 - [StarkNetRust](https://github.com/FuzzingLabs/starknet_in_rust): Starknet library in Rust
 - [Gotham](https://github.com/ZenGo-X/gotham-city/tree/master/): A client/server application for issuing two-party ECDSA signatures
   
