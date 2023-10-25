@@ -119,12 +119,23 @@ Create and deploy your **smart contracts** using these Rust-inspired platforms/l
 
 **Testing&Fuzzing**
 
-- [Foundry 2.0](https://github.com/foundry-rs/foundry) - modular toolkit for ethereum development and testing 
-- [Circomspect](https://github.com/trailofbits/circomspect) - static analyzer for Circom ZK framework 
-- [Caracal](https://github.com/crytic/caracal) - static analyzer for Starknet smart contracts
-- [Cairo-Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - smart contracts fuzzer for Cairo by Fuzzing Labs
+### Generic fuzzing
+
+- [Rust Fuzz book](https://rust-fuzz.github.io/book/) - intro to fuzzing in Rust with libfuzzer and afl++
+- [HonggFuzz crate](https://docs.rs/honggfuzz/latest/honggfuzz/) - Rust crate for honggfuzz
+- [Cargo Fuzz](https://docs.rs/honggfuzz/latest/honggfuzz/) - cargo tooling for libFuzzer
 - [Fzero-Fuzzer](https://github.com/FuzzingLabs/fzero_fuzzer) - grammar-based fuzzer for Rust
 - [WASMRuntimeFuzz](https://github.com/FuzzingLabs/wasm_runtimes_fuzzing) - WebAssembly Runtimes fuzzing 
+- [Cairo-Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - smart contracts fuzzer for Cairo by Fuzzing Labs
+
+### Blockchain fuzzing
+
+- [Foundry 2.0](https://github.com/foundry-rs/foundry) - modular toolkit for ethereum development and testing 
+- [Circomspect](https://github.com/trailofbits/circomspect) - static analyzer for Circom ZK framework 
+
+### Static Analyzers
+
+- [Caracal](https://github.com/crytic/caracal) - static analyzer for Starknet smart contracts
 - [Dylint](https://github.com/trailofbits/dylint/tree/master) - Static Analysis tool
   
 
